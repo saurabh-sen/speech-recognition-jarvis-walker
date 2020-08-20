@@ -1,4 +1,5 @@
 import datetime
+import pyaudio
 import os
 import random
 import webbrowser
